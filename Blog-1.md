@@ -7,17 +7,17 @@
 2. Then, we must give the computers we are working with names and declare them as nodes by entering the following in the console:
 
 ```
-iex --name foo@[LOCAL IP ADDRESS, i.e. 192.168.1.x for most machines on a normal home network] --cookie chocolate
+iex --name bob@[LOCAL IP ADDRESS, i.e. 192.168.1.x for most machines on a normal home network] --cookie chocolate
 
 and
 
-iex --name bar@[LOCAL IP] --cookie chocolate
+iex --name alice@[LOCAL IP] --cookie chocolate
 ```
 
 3. Finally, we must use one machine to ping the other so that they can be aware of each other.
 
 ```
-Node.ping :"bar@[LOCAL IP]"
+Node.ping :"alice@[LOCAL IP]"
 ```
 
 4. If pong is returned, then it was a success and the computers are now aware of each other! This can be shown by entering the following command on either machine:

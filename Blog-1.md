@@ -26,6 +26,6 @@ Node.ping :"alice@[LOCAL IP]"
 Node.list
 ```
 
-*First Posted: 10/27/18*
+_First Posted: 10/27/18_
 
-*Last Edited: 10/29/18*
+_Last Edited: 10/29/18_

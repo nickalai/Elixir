@@ -28,4 +28,4 @@ As Elixir/Erlang is a very niche programming language, most text editors will no
 Atom requires an additional package download. This can be done by navigating to Packages -> Settings View -> Install Packages/Themes, then searching for Elixir and Erlang. Download the top 2 packages for both. For Elixir, they're called "language-elixir" and "autocomplete-elixir". For Erlang, they're called "language-erlang" and "autocomplete-erlang".
 
 ### Sublime ###
-Sublime already has support for Elixir (but if you want code completion, syntax highlighting, errors and warnings additional packages need to be downloaded).
+Sublime already has support for Elixir (but if you want code completion, syntax highlighting, errors and warnings additional packages need to be downloaded). In order to have access to the above features, simply follow the instructions in the README of this [repository](https://github.com/elixir-editors/elixir-tmbundle)

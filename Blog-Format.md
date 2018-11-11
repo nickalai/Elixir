@@ -27,4 +27,4 @@ There's never too much code!
 
 **First Posted: The day you wrote this**
 
-**Last Edited: The last time you touched it**
+**Last Edited: The last time you edited this**

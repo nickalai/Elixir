@@ -2,7 +2,7 @@
 
 ## Subtitle here.
 
-Sample Text of we're going do in this post. Follow this formatting for all posts.
+Sample Text of we're going do in this post. We will be follow this format for all posts.
 
 1. Steps
 

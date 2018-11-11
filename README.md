@@ -3,7 +3,11 @@ Welcome to our Elixir blog. Here we (Nick Lai, Charlie Liu, and Cole Gotelli) wi
 
 ## Table of Contents
 [Concept Doc](ConceptDoc.md)
+
 [Elixir Setup](Elixir-Setup.md)
+
 [Blog 1](Blog-1.md)
+
 [Blog 2](Blog-2.md)
+
 [Blog 3](Blog-3.md)

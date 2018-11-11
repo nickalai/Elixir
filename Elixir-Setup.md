@@ -19,6 +19,12 @@ sudo apt-get update
 sudo apt-get install esl-erlang
 ```
 
+## Text Editors and Support for Elixir
 
+As Elixir/Erlang is a very niche programming language, most text editors will not have support for it automatically. Thus, extra packages must be downloaded. 
 
+### Atom ###
+Atom requires an additional package download. This can be done by navigating to Packages -> Settings View -> Install Packages/Themes, then searching for Elixir and Erlang. Download the top 2 packages for both. For Elixir, they're called "language-elixir" and "autocomplete-elixir". For Erlang, they're called "language-erlang" and "autocomplete-erlang".
 
+### Sublime ###
+Sublime already has support for Elixir (but if you want code completion, syntax highlighting, errors and warnings additional packages need to be downloaded).

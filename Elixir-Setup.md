@@ -19,6 +19,7 @@ sudo apt-get update
 sudo apt-get install esl-erlang
 ```
 
+
 ## Text Editors and Support for Elixir
 
 As Elixir/Erlang is a very niche programming language, most text editors will not have support for it automatically. Thus, extra packages must be downloaded. 

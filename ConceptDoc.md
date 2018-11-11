@@ -5,4 +5,6 @@ We are all interested in game and app development, so everything we develop duri
 
 We will be creating this system by using the programming language, Elixir (which is built off of Erlang). Doing so will allow us to expand our knowledge on programming languages as a whole and give us the opportunity to study a more obscure/unpopular language.
 
-**Posted 10/20/20**
+**Posted 10/20/18**
+
+**Last Updated: 11/10/18**

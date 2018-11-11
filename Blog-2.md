@@ -2,7 +2,7 @@
 
 ## Continuing forward with Elixir, we begin with the most basic yet crucial step: printing to the console.
 
-As Elixir/Erlang is a very niche programming language, most text editors will not have support for it automatically. Thus, extra packages must be downloaded. Sublime already has support for Elixir, while Atom requires a package download. This can be done by navigating to Packages -> Settings View -> Install Packages/Themes, then searching for Elixir and Erlang.
+As Elixir/Erlang is a very niche programming language, most text editors will not have support for it automatically. Thus, extra packages must be downloaded. Sublime already has support for Elixir (but if you want code completion, syntax highlighting, errors and warnings additional packages need to be downloaded), while Atom requires a package download. This can be done by navigating to Packages -> Settings View -> Install Packages/Themes, then searching for Elixir and Erlang.
 
 1. The most simple script we can write is the one and only "Hello World!" script. To do so, create a new file: HelloWorld.exs. The .exs extension means that the file is an Elixir **script**.
 

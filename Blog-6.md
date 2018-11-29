@@ -57,7 +57,7 @@ def do_selection(list, acc) do
 end
 ```
 
-At this point the list should be fully sorted! (Visit the 'Source Code' folder for the entire program)
+At this point the list should be fully sorted! (Source code can be found [here](Source%20Code/SortingAlgorithm/sort.ex))
 
 
 **First Posted: 11/27/18**

@@ -26,6 +26,6 @@ Here is our algorithm broken down into a single rule:
 smaller(x <= y) -> xy
 ```
 
-Basically this is telling us that if a value is smaller than another value next to it, put that value in front of the other.
+Basically this is telling us that if a value is smaller than another value next to it, put that value in front of the other. Because the method of sorting chosen is selection sort, this is the only rule needed because it methodically compares each pair of values and rearranges them if necessary. If, for example, we used a different sorting algorithm such as insertion sort, then we would need more rules to account for the multiple comparison cases.
 
 

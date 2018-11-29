@@ -24,8 +24,42 @@ iex> [1,2,3] ++ [4,5,6]
 
 Now that we have the basic tools we'll need to implement selection sort, let's actually do it.
 
--To Be Continued-
+First we should have a solid grasp on how selection sort works. Selection sort will will sort an array (or in our case a list) in ascending order (descending order is also possible). The way the algorithm sorts is as follows:
+
+Step 1. Create a list. We are going to imagine the list as being split into 2 parts. The front section being sorted and the back section being unsorted.
+
+Step 2. Compare the first 2 elements and see which one is smaller.
+```
+defp smaller(x1, x2) do
+  if x1 <= x2 do x1 else x2 end
+end
+```
+If the second element is smaller than the first, swap their locations in the list.
+```
+defp min([first|[second|tail]]) do
+  min([smaller(first,second)|tail])
+end
+```
+
+Step 3. Repeat this step (recursively) until you get to the end of the list.
+```
+def sort(list) when is_list(list) do
+  do_selection(list, [])
+end
+
+def do_selection([head|[]], acc) do
+  acc ++ [head]
+end
+
+def do_selection(list, acc) do
+  min = min(list)
+  do_selection(:lists.delete(min, list), acc ++ [min])
+end
+```
+
+At this point the list should be fully sorted! (Visit the 'Source Code' folder for the entire program)
+
 
 **First Posted: 11/27/18**
 
-**Last Edited: 11/27/18**
+**Last Edited: 11/28/18**

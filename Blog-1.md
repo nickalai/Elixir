@@ -2,7 +2,7 @@
 
 ## Our first progress on learning Elixir was entirely done inside of an Erlang environment.
 
-1. First, we must find the local IP address on the two machines we will be working with. This can be found by entering ipconfig (ifconfig on Mac) into the console.
+1. First, we must find the local IP address on the two machines we will be working with. This can be found by entering ipconfig (ifconfig on Mac) into the console and looking for the address associated with "IPv4 Address".
 
 2. Then, we must give the computers we are working with names and declare them as nodes by entering the following in the console:
 
@@ -29,4 +29,4 @@ Node.list
 
 **First Posted: 10/27/18**
 
-**Last Edited: 10/29/18**
+**Last Edited: 12/5/18**

@@ -6,7 +6,7 @@ Welcome to our Elixir blog. Here we (Nick Lai, Charlie Liu, and Cole Gotelli) wi
 
 [Elixir Setup](Elixir-Setup.md)
 
-[Presentation PowerPoint](Elixir%20Presentation.pptx)
+[PowerPoint Presentation](Elixir%20Presentation.pptx)
 
 [Blog 1](Blog-1.md)
 

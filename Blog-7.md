@@ -1,4 +1,4 @@
-# Blog 7: Term Rewriting Systems
+# Blog 7: Term Rewriting System Exercise
 
 ## We now have an example of a sorting algorithm, so let us apply that knowledge to learning about Term Rewriting Systems
 

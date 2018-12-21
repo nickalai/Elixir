@@ -16,7 +16,7 @@ I very much enjoyed learning about Elixir because it is a very different languag
 
 
 Charlie:
-
+Elixir has been one of the most interesting languages for me to learn, simply due to how differemt it is to any other language learned thus far. Although the physical project was unable to be finished, the research done taught us about many different things applical in other languages. The reason we were unable to complete the project that we set up for ourlselves due to the sheear complexity of this research and how much groundword we had to lay down before we could even begin. In addition, We were only able to get the program working on one machine because we did not know how to proceed with networking. Hopefully in the future we will be able to pick this project back up once we really know the core concepts of immutable programming languages, but for now, this is the most we could do with our current knowledge. 
 
 
 **First Posted: 12/21/18**

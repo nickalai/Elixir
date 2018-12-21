@@ -19,3 +19,7 @@ Person.tell(bob, "hey bob!")
 ```
 
 This will send from the system's current #PID to bob's newly declared #PID. It shall return the system's current #PID and message
+
+
+
+[Source code found from the Elixir github](http://elixir-recipes.github.io/concurrency/sending-and-receiving/)

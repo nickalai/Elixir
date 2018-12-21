@@ -12,7 +12,7 @@ Although we do have a script that allows for messaging between different "users"
 
 Cole:
 
-
+I very much enjoyed learning about Elixir because it is a very different language from any other language I have studied. I think the major reason we struggled to complete this project is because none of us have experience with networking of any kind, which is a subject entirely separate from what we were learning in this class. Had we had a bit more experience with networking, I think it would have been significatly easier to comprehend the limited documentation of this fairly new language. I am pleased, however, that we were able to lay all of the ground work associated with creating the system we proposed at the beginning of the semester. Another aspect of Elixir that I really struggled with is what feels like a gap in the material to learn in order to understand the language. At the beginning there were very basic features to learn (as is true of all programming languages) such as basic data types, basic variable operations and simple methods. Then, the next most challenging thing to learn is creating a network of computers that communicate with each other. There was really no in between for learning some of the things that would most likely be required to create the previously mentioned network.
 
 
 Charlie:

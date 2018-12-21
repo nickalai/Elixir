@@ -6,6 +6,8 @@ Welcome to our Elixir blog. Here we (Nick Lai, Charlie Liu, and Cole Gotelli) wi
 
 [Elixir Setup](Elixir-Setup.md)
 
+[Presentation PowerPoint](Elixir%20Presentation.pptx)
+
 [Blog 1](Blog-1.md)
 
 [Blog 2](Blog-2.md)
@@ -19,3 +21,4 @@ Welcome to our Elixir blog. Here we (Nick Lai, Charlie Liu, and Cole Gotelli) wi
 [Blog 6](Blog-6.md)
 
 [Blog 7](Blog-7.md)
+

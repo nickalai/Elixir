@@ -24,7 +24,7 @@ def listen do
   end
 ```
 
-tell is the sending portion of our code. It prints to the console that a message is being sent to a specific process (#PID). Only this specific #PID will receive the message. listen is the receiving portion of our code. It waits for a message to be sent to it's #PID, then receives it. It prints the message and the #PID of the sender to the console.
+`tell` is the sending portion of our code. It prints to the console that a message is being sent to a specific process (#PID). Only this specific #PID will receive the message. `listen` is the receiving portion of our code. It waits for a message to be sent to it's #PID, then receives it. It prints the message and the #PID of the sender to the console.
 
 **First Posted: 12/21/18**
 

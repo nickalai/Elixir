@@ -8,6 +8,8 @@ Welcome to our Elixir blog. Here we (Nick Lai, Charlie Liu, and Cole Gotelli) wi
 
 [PowerPoint Presentation](Elixir%20Presentation.pptx)
 
+[Source Code Folder](Source%20Code)
+
 [Blog 1: Connectivity is Key](Blog-1.md)
 
 [Blog 2: The Classic "Hello World!"](Blog-2.md)

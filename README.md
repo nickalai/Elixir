@@ -22,3 +22,7 @@ Welcome to our Elixir blog. Here we (Nick Lai, Charlie Liu, and Cole Gotelli) wi
 
 [Blog 7](Blog-7.md)
 
+[Blog 8](Blog-8.md)
+
+[Blog 9](Blog-9-Final%20Post.md)
+

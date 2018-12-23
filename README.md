@@ -8,21 +8,21 @@ Welcome to our Elixir blog. Here we (Nick Lai, Charlie Liu, and Cole Gotelli) wi
 
 [PowerPoint Presentation](Elixir%20Presentation.pptx)
 
-[Blog 1](Blog-1.md)
+[Blog 1: Connectivity is Key](Blog-1.md)
 
-[Blog 2](Blog-2.md)
+[Blog 2: The Classic "Hello World!"](Blog-2.md)
 
-[Blog 3](Blog-3.md)
+[Blog 3: Functions and Modules](Blog-3.md)
 
-[Blog 4](Blog-4.md)
+[Blog 4: Going in Circles! ...At least temporarily (Termination Exercise)](Blog-4.md)
 
-[Blog 5](Blog-5.md)
+[Blog 5:  I Mean...I Guess It's Fine (Partial Correctness Exercise)](Blog-5.md)
 
-[Blog 6](Blog-6.md)
+[Blog 6: Let's Get Sorted](Blog-6.md)
 
-[Blog 7](Blog-7.md)
+[Blog 7: Term Rewriting System Exercise](Blog-7.md)
 
-[Blog 8](Blog-8.md)
+[Blog 8: Psst. Hey, I got somethin' to tell ya](Blog-8.md)
 
-[Blog 9](Blog-9-Final%20Post.md)
+[Blog 9: That's all folks!](Blog-9-Final%20Post.md)
 
